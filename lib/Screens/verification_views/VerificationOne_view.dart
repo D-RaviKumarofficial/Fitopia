@@ -84,7 +84,7 @@ class PageOneContent extends StatelessWidget {
           left: 130,
           bottom: 100,
           child: Text(
-            "Train, Eat & Live better with flutter_application_1's Team",
+            "Train, Eat & Live better with Fitopia's Team",
             style: TextStyle(
               color: Colors.black,
               fontSize: 12,

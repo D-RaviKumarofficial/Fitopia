@@ -25,7 +25,7 @@ class _FinalScreenState extends State<FinalScreen> {
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
               ),
               Text(
-                " flutter_application_1",
+                " Fitopia",
                 style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 20,

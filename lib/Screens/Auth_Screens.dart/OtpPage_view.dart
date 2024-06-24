@@ -56,7 +56,7 @@ class _OtpPageState extends State<OtpPage> {
                         color: Color(0xFFFE4E2D)),
                   ).pb(32)),
               Container(
-                width: 500,
+                width: double.infinity,
                 height: 50,
                 decoration: BoxDecoration(
                     color: Color(0xFFFE4E2D),

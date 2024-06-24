@@ -28,7 +28,7 @@ class _PasswordState extends State<Password> {
                   style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
                 ),
                 Text(
-                  " flutter_application_1",
+                  " Fitopia",
                   style: TextStyle(
                       fontWeight: FontWeight.bold,
                       fontSize: 20,
@@ -65,7 +65,7 @@ class _PasswordState extends State<Password> {
               ],
             ),
             Container(
-              width: 500,
+              width: double.infinity,
               height: 50,
               decoration: BoxDecoration(
                   color: Color(

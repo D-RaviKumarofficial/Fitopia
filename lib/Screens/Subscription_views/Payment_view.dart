@@ -101,31 +101,6 @@ class _PaymentViewState extends State<PaymentView> {
                       borderSide: BorderSide(color: Colors.grey)),
                 ),
               ).pb(16),
-              Expanded(
-                flex: 1,
-                child: Row(
-                  children: [
-                    Column(
-                      children: [
-                        Text("Card Number*",
-                                style: TextStyle(
-                                    fontWeight: FontWeight.bold, fontSize: 17))
-                            .pb(8),
-                        TextFormField(
-                          decoration: InputDecoration(
-                            contentPadding: EdgeInsets.all(18),
-                            hintText: 'Enter Card Number',
-                            hintStyle: TextStyle(color: Colors.grey[500]),
-                            border: OutlineInputBorder(
-                                borderRadius: BorderRadius.circular(10),
-                                borderSide: BorderSide(color: Colors.grey)),
-                          ),
-                        ).pb(16),
-                      ],
-                    )
-                  ],
-                ),
-              )
             ],
           ).pa(20),
         ),

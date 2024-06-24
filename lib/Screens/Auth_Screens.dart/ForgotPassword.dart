@@ -43,7 +43,7 @@ class _ForgotPasswordState extends State<ForgotPassword> {
               ),
             ).pb(16),
             Container(
-              width: 500,
+              width: double.infinity,
               height: 50,
               decoration: BoxDecoration(
                   color: Color(0xFFFE4E2D),

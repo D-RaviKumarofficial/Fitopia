@@ -107,7 +107,7 @@ class _HomeViewSubscriptionState extends State<HomeViewSubscription> {
             ),
           ).pb(100),
           Container(
-            width: 500,
+            width: double.infinity,
             height: 50,
             decoration: BoxDecoration(
                 color: Color(0xFFFE4E2D),

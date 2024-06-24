@@ -27,7 +27,7 @@ class _EmailPageState extends State<EmailPage> {
                   style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
                 ),
                 Text(
-                  " flutter_application_1",
+                  " Fitopia",
                   style: TextStyle(
                       fontWeight: FontWeight.bold,
                       fontSize: 20,
@@ -69,7 +69,7 @@ class _EmailPageState extends State<EmailPage> {
                   style: TextStyle(fontSize: 16),
                 ),
                 Text(
-                  " flutter_application_1's team",
+                  " Fitopia's team",
                   style: TextStyle(
                       fontWeight: FontWeight.bold,
                       fontSize: 16,
